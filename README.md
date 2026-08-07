@@ -1,148 +1,130 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mohnish Kundnani</h1>
 
-<img src="assets/banner.png" width="100%">
-
-# Hi 👋 I'm Mohnish Kundnani
-
-### AI Engineer | Computer Vision | ML Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI+Engineer;Full+Stack+Developer;Computer+Vision;FastAPI+Developer;Machine+Learning;Always+Learning+New+Things" />
-
-<br>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/YOURPROFILE">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://leetcode.com/YOURUSERNAME">
-<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=mohnishkundnani&label=Visitors&color=blueviolet&style=for-the-badge">
-
-</div>
-
----
-
-# 🚀 About Me
-
-💜 Passionate about Artificial Intelligence
-
-🧠 Building Production Ready AI Applications
-
-📚 B.Tech CSE Student
-
-🌍 India
-
-⚡ Love solving real-world problems with AI.
-
----
-
-# 💼 Featured Projects
-
-### 👨‍🦯 Swanetra
-AI Assistant for Blind People
-
-- YOLOv8
-- OCR
-- GPS Navigation
-- Voice Assistant
-- Emergency SOS
-
----
-
-### 💰 AI Customs Charges Calculator
-
-- FastAPI
-- Machine Learning
-- Customs Prediction
-- PDF Reports
-
----
-
-### 🦺 PPE Detection
-
-- YOLO
-- OpenCV
-- Computer Vision
-
----
-
-### 🏥 Helix Appointment System
-
-- Spring Boot
-- React
-- MySQL
-
----
-
-### 📚 Adaptive Learning Management System
-
-- AI Personalized Learning
-- Dashboard
-- Analytics
-
----
-
-### 📈 AI Trading Bot
-
-- Binance API
-- Python
-- Machine Learning
-
----
-
-# ⚡ Tech Stack
-
-## Languages
+<h3 align="center">
+AI Engineer • Machine Learning Engineer
+</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts"/>
+Building intelligent systems that solve real-world problems through AI, Machine Learning, and Computer Vision.
 </p>
 
-## Web Development
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,html,css,tailwind"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;Computer+Vision+Developer;Deep+Learning+Enthusiast;Always+Learning+Something+New" />
 </p>
 
-## AI / ML
-
 <p align="center">
+<a href="https://www.linkedin.com/in/mohnish-kundnani-953858298/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mohnishkundnani12@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Mohnish124&style=for-the-badge&color=blueviolet"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🧠 AI Engineer passionate about solving real-world problems
+- 🤖 Machine Learning & Deep Learning Enthusiast
+- 👁️ Computer Vision Developer
+- 📚 B.Tech Computer Science Engineering Student
+- 🌱 Currently exploring **LLMs, Agentic AI & Multimodal AI**
+- ⚡ I enjoy turning ideas into intelligent software.
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🦯 **Swanetra** | AI-powered assistant for visually impaired users using YOLOv8, OCR, GPS Navigation & Voice Assistance |
+| 💰 **AI Customs Charges Calculator** | Machine Learning powered customs duty prediction system |
+| 🦺 **PPE Detection** | Computer Vision based Personal Protective Equipment Detection |
+| 🏥 **Helix Appointment System** | Smart healthcare appointment management platform |
+| 📚 **Adaptive Learning Management System** | AI-powered personalized learning platform |
+| 📈 **AI Trading Bot** | Intelligent trading assistant using market analysis |
+| 🚀 **Coming Soon...** | New AI Project |
+| 🚀 **Coming Soon...** | New Machine Learning Project |
+| 🚀 **Coming Soon...** | New Open Source Project |
+
+---
+
+# 🧠 AI Expertise
+
+```text
+Computer Vision      ███████████░ 95%
+
+Machine Learning     ██████████░░ 90%
+
+Deep Learning        █████████░░░ 85%
+
+Python               ███████████░ 95%
+
+Backend APIs         ████████░░░░ 80%
+```
+
+---
+
+# ⚙ Tech Arsenal
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 </p>
 
-<p align="center">
+```
+YOLOv8
+Scikit-learn
+NumPy
+Pandas
+EasyOCR
+Tesseract OCR
+```
 
-NumPy • Pandas • Scikit-learn • YOLOv8 • OpenCV • EasyOCR
+### Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring"/>
 </p>
 
-## Databases
+### Frontend
 
-<p align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
+
+### Databases
+
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
 </p>
 
-## Tools
+### Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohnishkundnani&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohnish124&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishkundnani&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohnish124&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -152,27 +134,17 @@ NumPy • Pandas • Scikit-learn • YOLOv8 • OpenCV • EasyOCR
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohnishkundnani&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohnish124&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohnishkundnani&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mohnishkundnani/mohnishkundnani/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohnish124&theme=tokyo-night"/>
 
 </p>
 
@@ -182,13 +154,25 @@ NumPy • Pandas • Scikit-learn • YOLOv8 • OpenCV • EasyOCR
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohnishkundnani&theme=discord&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mohnish124&theme=discord&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 💬 Dev Quote
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action after creating your profile repository.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Mohnish124/Mohnish124/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💡 Quote of the Day
 
 <p align="center">
 
@@ -198,16 +182,24 @@ NumPy • Pandas • Scikit-learn • YOLOv8 • OpenCV • EasyOCR
 
 ---
 
-# 📫 Contact
+# 📫 Connect With Me
 
-Email
+<p align="center">
 
-yourmail@gmail.com
+<a href="mailto:mohnishkundnani12@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-LinkedIn
+<a href="https://www.linkedin.com/in/mohnish-kundnani-953858298/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-linkedin.com/in/YOURPROFILE
+</p>
 
-Portfolio
+---
 
-Coming Soon 🚀
+<p align="center">
+
+### ⭐ Building AI that creates real-world impact.
+
+</p>
